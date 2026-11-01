@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BagyoWatch PH</string>
+    <string name="layer_warnings">PAGASA Warnings</string>
+    <string name="layer_rainfall">PAGASA Rainfall</string>
+    <string name="layer_quakes">PHIVOLCS Earthquakes</string>
+    <string name="layer_gdacs">GDACS Alerts</string>
+    <string name="layer_earthquakes">USGS Earthquakes</string>
+    <string name="layer_firms">NASA FIRMS Fires</string>
+    <string name="title_default_location">Philippines</string>
+    <string name="title_luzon">Luzon</string>
+    <string name="title_visayas">Visayas</string>
+    <string name="title_mindanao">Mindanao</string>
+    <string name="title_southern_leyte">Southern Leyte</string>
+    <string name="title_custom_location">Custom Location</string>
+    <string name="action_settings">Settings</string>

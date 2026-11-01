@@ -1,0 +1,48 @@
+
+> gods-eye-view@0.3.0 build
+> vite build
+
+vite v6.4.4 building for production...
+transforming...
+✓ 906 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/assets/geminiCaptureWorklet-2XyyvX3P.js                4.15 kB
+dist/assets/milkyway_nx--77adsG5.webp                       4.64 kB
+dist/assets/alpr-marker-selected-brackets-LQ7qLcLT.png      4.73 kB
+dist/assets/sdrAudioWorklet-DNmTAQpk.js                     5.15 kB
+dist/assets/milkyway_pz-BjHR6wSm.webp                       8.26 kB
+dist/assets/milkyway_py-DK_RQ1bz.webp                      10.14 kB
+dist/assets/alpr-marker-selected-WmayY1kQ.png              10.26 kB
+dist/assets/alpr-marker-normal-COAu686W.png                13.20 kB
+dist/assets/milkyway_nz-CRH9qMp4.webp                      15.88 kB
+dist/assets/milkyway_ny-31nO3QIg.webp                      19.12 kB
+dist/assets/sdr.worker-DNAvcPug.js                         56.34 kB
+dist/index.html                                            84.73 kB │ gzip:    18.16 kB
+dist/assets/san-francisco-DAzZI0CW.json                   222.17 kB │ gzip:    54.75 kB
+dist/assets/bright_stars-DPiDMsa5.json                    234.50 kB │ gzip:    89.51 kB
+dist/assets/landing-point-geo-CiAWPhfe.json               359.27 kB │ gzip:    72.57 kB
+dist/assets/marine-DXAJTUe1.json                          633.34 kB │ gzip:   223.15 kB
+dist/assets/cable-geo-i2PzBJi6.json                       728.31 kB │ gzip:   242.78 kB
+dist/assets/dams-B2lCjFgp.geojsonl                        730.28 kB
+dist/assets/countries-SEaBbd1J.json                       945.84 kB │ gzip:   359.84 kB
+dist/assets/counties-rSPaNADv.json                      1,541.46 kB │ gzip:   531.92 kB
+dist/assets/regions-B5_P_EZ3.json                       1,987.10 kB │ gzip:   683.45 kB
+dist/assets/datacenters-CtzejECr.geojsonl               2,561.98 kB
+dist/assets/states_provinces-DttMB0VZ.json              3,648.92 kB │ gzip: 1,260.07 kB
+dist/assets/names-DA56NpEe.json                         3,856.48 kB │ gzip: 1,716.21 kB
+dist/assets/mapillary-1hssAPdu.css                         84.24 kB │ gzip:    23.67 kB
+dist/assets/index-B829vYs2.css                            346.85 kB │ gzip:    59.59 kB
+dist/assets/services-CKlxT3u6.js                            2.27 kB │ gzip:     1.09 kB
+dist/assets/places-DZED1K7i.js                              9.36 kB │ gzip:     3.57 kB
+dist/assets/index-Cl5W3ym4.js                              85.13 kB │ gzip:    28.21 kB
+dist/assets/hls-bsuTaLC4.js                               595.07 kB │ gzip:   185.87 kB
+dist/assets/mapillary.module-CNpf_Czj.js                1,061.85 kB │ gzip:   273.75 kB
+dist/assets/egm96-universal.esm-D6y_VLZc.js             2,770.50 kB │ gzip: 1,849.99 kB
+dist/assets/index-QxsPzKM0.js                           5,190.88 kB │ gzip: 1,674.98 kB
+
+(!) Some chunks are larger than 1500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 19.70s
